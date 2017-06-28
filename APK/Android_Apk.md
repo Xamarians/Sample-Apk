@@ -2,8 +2,7 @@ Here is the link for the apk of all the sample.
 
 Applocalization -  https://www.dropbox.com/s/39e3729an65yd78/AppLocalization.AppLocalization.apk?dl=0
 
-Video compression -  
-https://www.dropbox.com/s/6sqap43oyrnthmt/CompressedVideoDemo.Android.apk?dl=0
+Video compression -  https://www.dropbox.com/s/6sqap43oyrnthmt/CompressedVideoDemo.Android.apk?dl=0
 
 List view pagination demo - 
   https://www.dropbox.com/s/w899q54q3z4jep3/ListViewPaginationDemo.Android.apk?dl=0
